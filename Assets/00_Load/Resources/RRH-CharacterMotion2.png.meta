@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: cbe5223b2890c2249a425e4b52092403
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6429967179261245848
+    second: RRH-CharacterMotion2_0
+  - first:
+      213: -584878571497301677
+    second: RRH-CharacterMotion2_1
+  - first:
+      213: 2792100805221591811
+    second: RRH-CharacterMotion2_2
+  - first:
+      213: -7414923235883499580
+    second: RRH-CharacterMotion2_3
+  - first:
+      213: -5065509688590924461
+    second: RRH-CharacterMotion2_4
+  - first:
+      213: -432545677694839574
+    second: RRH-CharacterMotion2_5
+  - first:
+      213: 2261407089422254806
+    second: RRH-CharacterMotion2_6
+  - first:
+      213: -8460898095145122631
+    second: RRH-CharacterMotion2_7
+  - first:
+      213: 7607784942054619513
+    second: RRH-CharacterMotion2_8
+  - first:
+      213: -5235481162686384676
+    second: RRH-CharacterMotion2_9
+  - first:
+      213: -6103605093045188817
+    second: RRH-CharacterMotion2_10
+  - first:
+      213: -2100294705292816818
+    second: RRH-CharacterMotion2_11
+  - first:
+      213: -7058127001821706335
+    second: RRH-CharacterMotion2_12
+  - first:
+      213: -71028193046292332
+    second: RRH-CharacterMotion2_13
+  - first:
+      213: 5398553608043447924
+    second: RRH-CharacterMotion2_14
+  - first:
+      213: -122820289677309459
+    second: RRH-CharacterMotion2_15
+  - first:
+      213: 3960339430099342196
+    second: RRH-CharacterMotion2_16
+  - first:
+      213: 4857708400942852712
+    second: RRH-CharacterMotion2_17
+  - first:
+      213: 8379867977349041739
+    second: RRH-CharacterMotion2_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 552
+        height: 905
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6e06f7946e2343a9b50bf78bda0f8
+      internalID: 6429967179261245848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_1
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 32
+        width: 542
+        height: 929
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dba93d8f5db9714498d80f7438c6521
+      internalID: -584878571497301677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_2
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 35
+        width: 535
+        height: 880
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb5e7ab0763c75449dbd0be20548100
+      internalID: 2792100805221591811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_3
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 35
+        width: 556
+        height: 901
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6739f3c11522e740a415dfc2f87e78e
+      internalID: -7414923235883499580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_4
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7b206f552f452458c801baee5ba86b
+      internalID: -5065509688590924461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_5
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 35
+        width: 530
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d7f437fbe14b44a27f79be70ee55b
+      internalID: -432545677694839574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_6
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 35
+        width: 552
+        height: 879
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0067df6e8dd1614b84425c01f83f5b5
+      internalID: 2261407089422254806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_7
+      rect:
+        serializedVersion: 2
+        x: 4763
+        y: 35
+        width: 618
+        height: 917
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95012027e4e36cd4ab63fbf4dad6d4bd
+      internalID: -8460898095145122631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_8
+      rect:
+        serializedVersion: 2
+        x: 5539
+        y: 35
+        width: 643
+        height: 942
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54497689152d47043845da12ce72afd9
+      internalID: 7607784942054619513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_9
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 35
+        width: 640
+        height: 942
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934598f27a1f43947abf72e7276381fc
+      internalID: -5235481162686384676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_10
+      rect:
+        serializedVersion: 2
+        x: 7220
+        y: 39
+        width: 440
+        height: 946
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5b539eafc72a24cac27f6cd2b44f75
+      internalID: -6103605093045188817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_11
+      rect:
+        serializedVersion: 2
+        x: 8008
+        y: 39
+        width: 444
+        height: 942
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ceb84db5522544caaa5211f54b2474
+      internalID: -2100294705292816818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_12
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 25
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3de310dc19080a42887fca2c0fe9aac
+      internalID: -7058127001821706335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_13
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d516c549ae74514f8cc5317d5ae35dd
+      internalID: -71028193046292332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_14
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 19
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5469503cfb46f7479bb0154f564523f
+      internalID: 5398553608043447924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_15
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 25
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57f77d494b73b458ef7832c1899e7f
+      internalID: -122820289677309459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_16
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 0
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6482e5a7e8782894ab35c3c5d81b5de6
+      internalID: 3960339430099342196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_17
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5eb824fd2438e4589b735399b0d5bd
+      internalID: 4857708400942852712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH-CharacterMotion2_18
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 4
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320c91de0dee4f4faf49b17acbf98f9
+      internalID: 8379867977349041739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: de185d487e471034e8de531f0a8798ea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RRH_Ingmae_Platform morning _0
+    21300002: RRH_Ingmae_Platform morning _1
+    21300004: RRH_Ingmae_Platform morning _2
+    21300006: RRH_Ingmae_Platform morning _3
+    21300008: RRH_Ingmae_Platform morning _4
+    21300010: RRH_Ingmae_Platform morning _5
+    21300012: RRH_Ingmae_Platform morning _6
+    21300014: RRH_Ingmae_Platform morning _7
+    21300016: RRH_Ingmae_Platform morning _8
+    21300018: RRH_Ingmae_Platform morning _9
+    21300020: RRH_Ingmae_Platform morning _10
+    21300022: RRH_Ingmae_Platform morning _11
+    21300024: RRH_Ingmae_Platform morning _12
+    21300026: RRH_Ingmae_Platform morning _13
+    21300028: RRH_Ingmae_Platform morning _14
+    21300030: RRH_Ingmae_Platform morning _15
+    21300032: RRH_Ingmae_Platform morning _16
+    21300034: RRH_Ingmae_Platform morning _17
+    21300036: RRH_Ingmae_Platform morning _18
+    21300038: RRH_Ingmae_Platform morning _19
+    21300040: RRH_Ingmae_Platform morning _20
+    21300042: RRH_Ingmae_Platform morning _21
+    21300044: RRH_Ingmae_Platform morning _22
+    21300046: RRH_Ingmae_Platform morning _23
+    21300048: RRH_Ingmae_Platform morning _24
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 148
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387df4099deaf0e43b158422c4391c49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f07960c35c31e641b41ed41b144c137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681cc8925f0111d408cde0560c66083c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b55628b905f8741897b3ea9e8b2abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b931c9f5f7b6af4384eb5414e81e76e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13f7336a82de3a4e84d12ef5ffce7d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31da5bd4d91a654bab89bdd0e220778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530f109809251d245be55be6ea987931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b594630c8f4b95459118deb7f49a6b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc4a7d50c3ece0428388914cd8d90a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d083caa524114a85a9febfa390c5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65cff289ca094041bd9428d8d4149ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d790ac3a904af6f4f83f2933649edf08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774c8518afff912479bbc4ab6bffb53b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b8f80d273cf8459875fb275444da3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6b4cf7f3682044e95732fdd22abda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b86e2d7d39f27f4e8ed9be2aa009976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cf6bdfa06ded74585bb46d227b30a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daddd0f83a9a29e43814c3b317b1a8fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _19
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b806e39207c9dd4fbb1b8560d0a4e6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ee6a71deead054e9f2f20f22746f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e66aa22f0c32a54b9f97cf6aabfc9d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa2857425e2d64458f38f7855f126f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd36667ea3de6b045a4084f4f5a4c483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform morning _24
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e51580aed75364c90cff58b0983702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 629defefae1d1834eb5bf38001048498
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

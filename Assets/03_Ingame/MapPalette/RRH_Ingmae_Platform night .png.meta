@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 9cf4996379bf55e439ec4f0f785604ac
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RRH_Ingmae_Platform night _0
+    21300002: RRH_Ingmae_Platform night _1
+    21300004: RRH_Ingmae_Platform night _2
+    21300006: RRH_Ingmae_Platform night _3
+    21300008: RRH_Ingmae_Platform night _4
+    21300010: RRH_Ingmae_Platform night _5
+    21300012: RRH_Ingmae_Platform night _6
+    21300014: RRH_Ingmae_Platform night _7
+    21300016: RRH_Ingmae_Platform night _8
+    21300018: RRH_Ingmae_Platform night _9
+    21300020: RRH_Ingmae_Platform night _10
+    21300022: RRH_Ingmae_Platform night _11
+    21300024: RRH_Ingmae_Platform night _12
+    21300026: RRH_Ingmae_Platform night _13
+    21300028: RRH_Ingmae_Platform night _14
+    21300030: RRH_Ingmae_Platform night _15
+    21300032: RRH_Ingmae_Platform night _16
+    21300034: RRH_Ingmae_Platform night _17
+    21300036: RRH_Ingmae_Platform night _18
+    21300038: RRH_Ingmae_Platform night _19
+    21300040: RRH_Ingmae_Platform night _20
+    21300042: RRH_Ingmae_Platform night _21
+    21300044: RRH_Ingmae_Platform night _22
+    21300046: RRH_Ingmae_Platform night _23
+    21300048: RRH_Ingmae_Platform night _24
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 148
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036c6791f1ff43546887e614182aaff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba32d19645a980459f18acfde87641b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac86d089f05bd418fd26a75b1efd92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada7411b509190543b29856ea8154932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 603
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.5, y: -9.5}
+        - {x: -74.5, y: -74.5}
+        - {x: 74.5, y: -74.5}
+        - {x: 74.5, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ac89a0dfd3a4e4498cc9072aa8e910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32baf2bf808a6c45add8fc297131fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c8a99ab2d64564595d0f08bc3dfff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab196c2fdf37deb49a312977b656584c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1f49d29ecc494892273b79fbb803f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 454
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d95cf730ae7443b124269c28c5573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f26dafde12e1440840faa45b4d41cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbcff10180c53409e4c98948c24152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c5183222dabf45889a01771ea9630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e2692acb3dc0a429463050888e5bee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 305
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019316dc13a0bbc46913eb3e738fd526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282aea142b7bbd74388591cc35189ed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64d82077785b0a4e9d0ff921b7555f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a374938853c7f498cfb46a31e9aaae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a43d4650286b4441b92e7ba9798dc24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _19
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 156
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aa8dce4e396c347a4c0b3471169895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4009f2fca9603124095ed1d6cf4339b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399baa71e2f9f45419e2964e0bcf2214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6014578cb86eae489e4138e0d84e2f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308bd74d138db174ebb440cb70d5ab10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RRH_Ingmae_Platform night _24
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 7
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac4f4b6621c7394d918a6019e764c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fb9cf73d852df7c479943f9cad6a9f63
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
